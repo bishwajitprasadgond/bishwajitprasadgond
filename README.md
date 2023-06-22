@@ -1,5 +1,15 @@
+
+
+
 <h1 align="center">Hi 👋, I'm Bishwajit Prasad Gond</h1>
+<p>&nbsp;<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=bishwajitprasadgond&show_icons=true&locale=en" alt="bishwajitprasadgond" /></p>
+<p><img align="right" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bishwajitprasadgond&" alt="bishwajitprasadgond" /></p>
+
+
+
+
 <h3 align="center">A passionate software engineer from India</h3>
+
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <a href="https://www.linkedin.com/in/bishwajitprasadgond">
@@ -15,6 +25,10 @@
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
 </p>
+
+
+
+
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/bishwajitprasadgond)
@@ -79,8 +93,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bishwajitprasadgond@oksbi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bishwajitprasadgond@oksbi" /></a><a href="https://ko-fi.com/bishwajitprasadgond@oksbi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bishwajitprasadgond@oksbi" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishwajitprasadgond&show_icons=true&locale=en&layout=compact" alt="bishwajitprasadgond" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishwajitprasadgond&show_icons=true&locale=en" alt="bishwajitprasadgond" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishwajitprasadgond&" alt="bishwajitprasadgond" /></p>
+

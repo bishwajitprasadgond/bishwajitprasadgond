@@ -2,10 +2,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Bishwajit Prasad Gond</h1>
-<p>&nbsp;<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=bishwajitprasadgond&show_icons=true&locale=en" alt="bishwajitprasadgond" /></p>
-<p><img align="right" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bishwajitprasadgond&" alt="bishwajitprasadgond" /></p>
-
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=bishwajitprasadgond&show_icons=true&locale=en" alt="bishwajitprasadgond" style="width: 45%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishwajitprasadgond&" alt="bishwajitprasadgond" style="width: 48%;">
+</div>
 
 
 <h3 align="center">A passionate software engineer from India</h3>

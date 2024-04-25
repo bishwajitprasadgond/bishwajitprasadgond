@@ -92,7 +92,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a <a href="https://ko-fi.com/bishwajitprasadgond"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bishwajitprasadgond@oksbi" /></a></p><br><br>
-
-
+<p><a  <img align="left" src="https://github.com/bishwajitprasadgond/Assets/blob/eb87cbca291fb8055c05afb61f9dbe04c4bcb0c2/UPI.png" height="100" width="100" alt="bishwajitprasadgond@oksbi" /></a></p><br><br>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/bishwajitprasadgond/Assets/blob/eb87cbca291fb8055c05afb61f9dbe04c4bcb0c2/UPI.png" alt="bishwajitprasadgond@oksbi" style="width: 20%;">
+</div>
 
 

@@ -1,4 +1,5 @@
 <div align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishwajitprasadgond&label=Profile%20views&color=0e75b6&style=flat" alt="bishwajitprasadgond" /> </p>
 
 # Hi 👋, I'm Bishwajit Prasad Gond
 
@@ -120,12 +121,6 @@ I am a data scientist and researcher with interests spanning **Generative AI, de
 
 ### Quantum Computing
 [![Qiskit](https://img.shields.io/badge/Qiskit-black?style=for-the-badge&logo=qiskit)](https://github.com/bishwajitprasadgond)
-
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishwajitprasadgond&label=Profile%20views&color=0e75b6&style=flat" alt="bishwajitprasadgond" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishwajitprasadgond" alt="bishwajitprasadgond" /></a> </p>
 
 ---
 

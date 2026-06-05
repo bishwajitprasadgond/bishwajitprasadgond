@@ -4,7 +4,7 @@
 # Hi 👋, I'm Bishwajit Prasad Gond
 
 ### Data Scientist — Advanced Analytics, Hybrid Cloud & Data  
-**IBM India Pvt. Ltd.**
+### IBM India Pvt. Ltd.
 
 [![Email](https://img.shields.io/badge/Email-bishwajitprasadgond%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bishwajitprasadgond@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-bishwajitprasadgond-181717?style=for-the-badge&logo=github)](https://github.com/bishwajitprasadgond)

@@ -17,7 +17,8 @@
 
 ## About Me
 
-I am a data scientist and researcher with interests spanning **Generative AI, deep learning, machine learning, malware analysis, robotics, and quantum computing**. My work combines applied research, intelligent systems, cybersecurity analytics, and modern AI engineering to solve real-world problems across data-driven and security-focused domains.
+I am a Data Scientist at IBM and a PhD researcher at the National Institute of Technology (NIT) Rourkela, where my research focuses on **Agentic AI and Generative AI for Cybersecurity**. My interests span **Generative AI, Agentic AI, deep learning, machine learning, malware analysis, cybersecurity, robotics, and quantum computing**. My work combines applied research, intelligent autonomous systems, cybersecurity analytics, and modern AI engineering to develop trustworthy, AI-driven solutions for real-world data-driven and security-critical applications.
+
 
 ---
 
@@ -128,8 +129,9 @@ I am a data scientist and researcher with interests spanning **Generative AI, de
 
 | Degree | Institution | Year | Details |
 |---|---|---:|---|
-| M.Tech in Computer Science and Engineering (Software Engineering) | National Institute of Technology, Rourkela | 2024 | Thesis: *Dynamic Analysis of Windows Malware: A Classification and Concept Drift Perspective* · Advisor: Prof. Durga Prasad Mohapatra · CGPA: **8.92/10** |
-| B.Tech in Computer Science and Engineering | Government College of Engineering and Leather Technology, Kolkata | 2022 | Affiliated under West Bengal University of Technology · Thesis: *Movie Recommender System* · Advisor: Prof. Debayan Ganguly · CGPA: **8.92/10** |
+| PhD in Computer Science and Engineering (Agentic AI and GenAI) | National Institute of Technology, Rourkela | 2026- * |  · Advisor: Prof. Durga Prasad Mohapatra  |
+| M.Tech in Computer Science and Engineering (Software Engineering) | National Institute of Technology, Rourkela | 2022-2024 | Thesis: *Dynamic Analysis of Windows Malware: A Classification and Concept Drift Perspective* · Advisor: Prof. Durga Prasad Mohapatra · CGPA: **8.92/10** |
+| B.Tech in Computer Science and Engineering | Government College of Engineering and Leather Technology, Kolkata | 2018-2022 | Affiliated under West Bengal University of Technology · Thesis: *Movie Recommender System* · Advisor: Prof. Debayan Ganguly · CGPA: **8.92/10** |
 
 ---
 

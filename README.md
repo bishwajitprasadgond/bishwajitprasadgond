@@ -129,7 +129,7 @@ I am a Data Scientist at IBM and a PhD researcher at the National Institute of T
 
 | Degree | Institution | Year | Details |
 |---|---|---:|---|
-| PhD in Computer Science and Engineering (Agentic AI and GenAI) | National Institute of Technology, Rourkela | 2026- * |  · Advisor: Prof. Durga Prasad Mohapatra  |
+| PhD in Computer Science and Engineering (Agentic AI and GenAI) | National Institute of Technology, Rourkela | 2026- Ongoing |  · Advisor: Prof. Durga Prasad Mohapatra  |
 | M.Tech in Computer Science and Engineering (Software Engineering) | National Institute of Technology, Rourkela | 2022-2024 | Thesis: *Dynamic Analysis of Windows Malware: A Classification and Concept Drift Perspective* · Advisor: Prof. Durga Prasad Mohapatra · CGPA: **8.92/10** |
 | B.Tech in Computer Science and Engineering | Government College of Engineering and Leather Technology, Kolkata | 2018-2022 | Affiliated under West Bengal University of Technology · Thesis: *Movie Recommender System* · Advisor: Prof. Debayan Ganguly · CGPA: **8.92/10** |
 

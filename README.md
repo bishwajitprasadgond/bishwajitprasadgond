@@ -1,9 +1,9 @@
 <div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishwajitprasadgond&label=Profile%20views&color=0e75b6&style=flat" alt="bishwajitprasadgond" /> </p>
 
-# Hi 👋, I'm Bishwajit Prasad Gond
+# Hi, I'm Bishwajit Prasad Gond
 
-### Data Scientist — Advanced Analytics, Hybrid Cloud & Data  
+### Data Scientist -Advanced Analytics, Hybrid Cloud & Data  
 ### IBM India Pvt. Ltd.
 
 [![Email](https://img.shields.io/badge/Email-bishwajitprasadgond%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bishwajitprasadgond@gmail.com)
